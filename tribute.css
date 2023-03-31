@@ -1,0 +1,32 @@
+body {  
+    background-color: #1663a1;  
+     
+}  
+#heading {  
+    text-align: center;  
+    text-shadow: 5px 5px 10px rgb(36, 34, 34);  
+    font-size: 10vh;  
+  font-weight: 150; 
+}
+#caption {  
+    font-size: 90px;  
+    font-family:"Times New Roman", Times, serif;  
+    color: black;  
+}  
+#image{
+    text-align: center;
+    font-size: 10vh;
+}
+div#tribute-page {  
+    background-color: rgba(153, 160, 221, 0.25);   
+    font-family: 'Lucida Console", "Courier New", monospace';  
+    padding: 25px 25px;  
+    margin: 11px;  
+    margin-top: 50px;  
+}  
+h1.title-blue {  
+    font-size: 25px;  
+    color: white;  
+    text-align: center;  
+      
+} 
